@@ -1,9 +1,8 @@
 {
-  "name": "creative",
-  "title": "Creative",
+  "name": "personal-website",
   "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/creative",
-  "author": "Start Bootstrap",
+  "homepage": "https://github.com/sydneyschavietello/sydneyschavietello.github.io",
+  "author": "Sydney Schavietello",
   "license": {
     "type": "MIT",
     "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
